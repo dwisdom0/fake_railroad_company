@@ -1,0 +1,21 @@
+route_id,src,dst,expected_departure,expected_arrival
+1,Sheaside,West Dorothy,11:55:00,17:03:00
+2,West Dorothy,Sheaside,11:55:00,17:03:00
+3,Robertton,South Michelleton,06:15:00,13:00:00
+4,South Michelleton,Robertton,06:15:00,13:00:00
+5,New Eric,South Kelly,10:33:00,14:40:00
+6,South Kelly,New Eric,10:33:00,14:40:00
+7,Robertton,Joshuabury,10:36:00,14:16:00
+8,Joshuabury,Robertton,10:36:00,14:16:00
+9,Sheaside,Robertton,06:50:00,17:49:00
+10,Robertton,Sheaside,06:50:00,17:49:00
+11,Robinsonville,Joshuabury,09:31:00,13:16:00
+12,Joshuabury,Robinsonville,09:31:00,13:16:00
+13,Juliabury,Lake Jackieland,09:36:00,16:02:00
+14,Lake Jackieland,Juliabury,09:36:00,16:02:00
+15,Joshuabury,South Michelleton,05:25:00,19:37:00
+16,South Michelleton,Joshuabury,05:25:00,19:37:00
+17,Juliabury,South Kelly,08:24:00,13:55:00
+18,South Kelly,Juliabury,08:24:00,13:55:00
+19,Nielsenland,Robertton,05:22:00,17:41:00
+20,Robertton,Nielsenland,05:22:00,17:41:00
