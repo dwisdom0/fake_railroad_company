@@ -1,0 +1,21 @@
+route_id,src,dst,expected_departure,expected_arrival
+1,Brownview,Graybury,11:55:00,17:03:00
+2,Graybury,Brownview,11:55:00,17:03:00
+3,Perezbury,East Jameshaven,06:15:00,13:00:00
+4,East Jameshaven,Perezbury,06:15:00,13:00:00
+5,Ashleyburgh,Johnsmouth,10:33:00,14:40:00
+6,Johnsmouth,Ashleyburgh,10:33:00,14:40:00
+7,Perezbury,Johnsonfurt,10:36:00,14:16:00
+8,Johnsonfurt,Perezbury,10:36:00,14:16:00
+9,Brownview,Perezbury,06:50:00,17:49:00
+10,Perezbury,Brownview,06:50:00,17:49:00
+11,Frederickfort,Johnsonfurt,09:31:00,13:16:00
+12,Johnsonfurt,Frederickfort,09:31:00,13:16:00
+13,Miguelmouth,Port William,09:36:00,16:02:00
+14,Port William,Miguelmouth,09:36:00,16:02:00
+15,Johnsonfurt,East Jameshaven,05:25:00,19:37:00
+16,East Jameshaven,Johnsonfurt,05:25:00,19:37:00
+17,Miguelmouth,Johnsmouth,08:24:00,13:55:00
+18,Johnsmouth,Miguelmouth,08:24:00,13:55:00
+19,West Stephanieville,Perezbury,05:22:00,17:41:00
+20,Perezbury,West Stephanieville,05:22:00,17:41:00
