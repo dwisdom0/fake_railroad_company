@@ -33,3 +33,11 @@ This is the first version of the data that I generated.
 # V2
 I tweaked some of the weights I used to calculate the satisfaction score.
 
+# V3
+Some customers are now power users who ride more often than other users.
+
+# V4
+Customers with children are more likely to be members
+
+
+
