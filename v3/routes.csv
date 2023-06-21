@@ -1,0 +1,21 @@
+route_id,src,dst,expected_departure,expected_arrival
+1,South Joseph,Shawnport,06:53:00,14:24:00
+2,Shawnport,South Joseph,06:53:00,14:24:00
+3,Shawnmouth,Port Adam,10:37:00,12:04:00
+4,Port Adam,Shawnmouth,10:37:00,12:04:00
+5,Lindseyburgh,Shawnport,06:32:00,19:31:00
+6,Shawnport,Lindseyburgh,06:32:00,19:31:00
+7,Lake Aaron,Shawnmouth,09:01:00,13:03:00
+8,Shawnmouth,Lake Aaron,09:01:00,13:03:00
+9,Lopezville,Lake Aaron,07:44:00,18:51:00
+10,Lake Aaron,Lopezville,07:44:00,18:51:00
+11,Lopezville,Jordanmouth,10:36:00,19:14:00
+12,Jordanmouth,Lopezville,10:36:00,19:14:00
+13,Alexisside,Lake Aaron,05:02:00,14:06:00
+14,Lake Aaron,Alexisside,05:02:00,14:06:00
+15,North Lisastad,Joelbury,10:00:00,11:05:00
+16,Joelbury,North Lisastad,10:00:00,11:05:00
+17,Joelbury,Shawnport,07:56:00,17:43:00
+18,Shawnport,Joelbury,07:56:00,17:43:00
+19,Lake Allisonborough,Shawnmouth,05:11:00,11:15:00
+20,Shawnmouth,Lake Allisonborough,05:11:00,11:15:00
