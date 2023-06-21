@@ -1,0 +1,21 @@
+route_id,src,dst,expected_departure,expected_arrival
+1,West Sylvia,Williamsshire,09:01:00,17:09:00
+2,Williamsshire,West Sylvia,09:01:00,17:09:00
+3,Port Miguel,Port David,07:21:00,14:24:00
+4,Port David,Port Miguel,07:21:00,14:24:00
+5,Port Miguel,North Aliciaport,10:21:00,11:51:00
+6,North Aliciaport,Port Miguel,10:21:00,11:51:00
+7,Port Raymond,Port Miguel,06:33:00,16:51:00
+8,Port Miguel,Port Raymond,06:33:00,16:51:00
+9,Vazquezport,Williamsshire,11:27:00,12:09:00
+10,Williamsshire,Vazquezport,11:27:00,12:09:00
+11,Lake Angelashire,Port David,05:10:00,10:08:00
+12,Port David,Lake Angelashire,05:10:00,10:08:00
+13,Sharonton,Anthonyfurt,11:45:00,17:10:00
+14,Anthonyfurt,Sharonton,11:45:00,17:10:00
+15,Sharonton,North Aliciaport,07:57:00,16:57:00
+16,North Aliciaport,Sharonton,07:57:00,16:57:00
+17,Vazquezport,Lake Josephshire,10:11:00,14:16:00
+18,Lake Josephshire,Vazquezport,10:11:00,14:16:00
+19,Williamsshire,West Davidport,06:02:00,13:49:00
+20,West Davidport,Williamsshire,06:02:00,13:49:00
